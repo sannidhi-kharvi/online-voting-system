@@ -14,3 +14,4 @@ MySQL<br/><br/>
 5. Login using Admin</b><br/>
    &nbsp&nbsp&nbsp&nbsp&nbspUsername: <b>admin</b><br/>
    &nbsp&nbsp&nbsp&nbsp&nbspPassword: <b>admin</b><br/>
+6. Add PHPMailer
